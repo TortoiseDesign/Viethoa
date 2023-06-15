@@ -1,10 +1,13 @@
-# Viethoa
-Here are the steps
-B1: Download the folder to your computer
+# Việt hóa
+# Here are the steps
+# B1: 
+Download the folder to your computer
 
-B2: Drop the "stream" entry into the folder of qb-core
+# B2: 
+Drop the "stream" entry into the folder of qb-core
 
-B3: Go to the folder
+# B3:
+Go to the folder
 # Go to qb-core\client\functions.lua
 # Find to
 
