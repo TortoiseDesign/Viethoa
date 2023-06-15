@@ -7,9 +7,12 @@ B2: Drop the "stream" entry into the folder of qb-core
 B3: Go to the folder
 # Go to qb-core\client\functions.lua
 # Find to
-QBCore.Functions = {}
+
+        QBCore.Functions = {}
+        
 # Add after it with :
-QBCore.RequestId = 0
+
+       QBCore.RequestId = 0
 QBCore.Font = 0
 
 Citizen.CreateThread(function()
